@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="titol">Categorias periódico</string>
+    <string name="fab">Añadir</string>
+    <string name="categoriaMostrar">Mostrar Categoria</string>
+</resources>
