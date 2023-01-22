@@ -1,2 +1,2 @@
 # RecyclerView
-Creación e implemenatción de un RecyclerView en una aplicación Android
+Creación e implemenatción de una lista interactiva en una aplicación Android utilizando un RecyclerView
